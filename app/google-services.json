@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "834810416553",
+    "firebase_url": "https://receitas-1c90c.firebaseio.com",
+    "project_id": "receitas-1c90c",
+    "storage_bucket": "receitas-1c90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834810416553:android:f2c838bebfb1d9676608b8",
+        "android_client_info": {
+          "package_name": "com.example.cadernodereceitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834810416553-ctd8cm2hfp1f8ac0qae219o2t2jo7a3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cadernodereceitas",
+            "certificate_hash": "c7addb79801015faa421b6d293c0dd05685521b4"
+          }
+        },
+        {
+          "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6b59iOQtwZX8lim6fRwsDNrbIxwFACbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834810416553:android:9849584552ddb9416608b8",
+        "android_client_info": {
+          "package_name": "com.leticiafraga.cadernodereceitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834810416553-ue790n5o5k2sg0bdh0v5rdf76kpjtq6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leticiafraga.cadernodereceitas",
+            "certificate_hash": "19cc759aadd67514f32fe62de52a035480cde4fa"
+          }
+        },
+        {
+          "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6b59iOQtwZX8lim6fRwsDNrbIxwFACbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834810416553:android:2919eb5a8c37aafd6608b8",
+        "android_client_info": {
+          "package_name": "com.leticiafraga.receitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6b59iOQtwZX8lim6fRwsDNrbIxwFACbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834810416553-dcelel0doej8toj59dvs0l17vduqogje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
